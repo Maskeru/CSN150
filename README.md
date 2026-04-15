@@ -1,11 +1,20 @@
-# CSN150
-blah blah my first project
-## SAH DUDE
-### STILL SAHH DUDEEeee
-**BOLD**
+# CSN150  
+blah blah my first project  
+**BOLD**  
 *Italic*
-~Strikethrough~
+~Strikethrough~   
+***BOLDER ITALIC***  
+Hello <sub> subscript </sub> <sup> superman    </sup>  
+<ins>underline</ins>
+## Second Headliner
+> this is a quote  
+Below is the code
+```
+var dog
+var cat
+console.log(cat+dog)
+```
+### Third Liner
+The link is here [YOUTUBE](https://youtube.com)
 
-***BOLDER ITALIC***
 
-Hello <sub> subscript </sub>
