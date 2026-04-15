@@ -15,6 +15,7 @@ var cat
 console.log(cat+dog)
 ```
 ### Third Liner
-The link is here [YOUTUBE](https://youtube.com)
+The link is here [YOUTUBE](https://youtube.com)  
+Relative Link: [Readme2.md](/Readme2.md)
 
 
