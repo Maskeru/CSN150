@@ -23,5 +23,5 @@ Relative Link: [Readme2.md](/Readme2.md)
 
 
 ## Task List
--[X] completed  
--[] not completed  
+- [X] completed  
+- [ ] not completed  
