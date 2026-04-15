@@ -1,4 +1,6 @@
 # CSN150  
+This is an image
+![this is cheese](images/Cheese-Wheel-Pasta.webp)
 blah blah my first project  
 **BOLD**  
 *Italic*
